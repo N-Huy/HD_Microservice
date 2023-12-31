@@ -1,0 +1,9 @@
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.dll
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.runtimeconfig.json
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.pdb
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityModel.dll
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityServer4.dll
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityServer4.Storage.dll
+D:\HDBANK\API\MICROAPI\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.deps.json

@@ -1,0 +1,12 @@
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Controllers\testjson.json
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.dll
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.runtimeconfig.json
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.pdb
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityModel.dll
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityServer4.dll
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\IdentityServer4.Storage.dll
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\HDB_SQLHELPER.dll
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\HDB_SQLHELPER.pdb
+D:\Source\API.GATEWAY\Api.ValidToken\obj\Release\netcoreapp2.2\PubTmp\Out\Api.ValidToken.deps.json

@@ -1,0 +1,10 @@
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.csproj.AssemblyReference.cache
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.AssemblyInfoInputs.cache
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.AssemblyInfo.cs
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.csproj.CoreCompileInputs.cache
+D:\Source\API.GATEWAY\HDB_SQLHELPER\bin\Release\netcoreapp2.1\HDB_SQLHELPER.deps.json
+D:\Source\API.GATEWAY\HDB_SQLHELPER\bin\Release\netcoreapp2.1\HDB_SQLHELPER.dll
+D:\Source\API.GATEWAY\HDB_SQLHELPER\bin\Release\netcoreapp2.1\HDB_SQLHELPER.pdb
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.dll
+D:\Source\API.GATEWAY\HDB_SQLHELPER\obj\Release\netcoreapp2.1\HDB_SQLHELPER.pdb
